@@ -8,7 +8,11 @@ git clone https://github.com/Rohan10027/Website-homepage-development.git
 
 ### STEP 2:
 npm install
+
+### STEP 3:
 npm start
+
+### STEP 4:
 The development server should be running at http://localhost:3000.
 
 ### Deployment
